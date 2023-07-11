@@ -39,7 +39,7 @@ npm start
 ```
 
 
-¡El servidor de backend ahora está en funcionamiento en el puerto especificado en el archivo `.env`!
+¡El servidor de backend ahora está en funcionamiento!
 
 ## Uso
 
